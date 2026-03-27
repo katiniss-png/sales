@@ -1,0 +1,54 @@
+yml_catalog date="2026-03-25 12:50">
+  <shop>
+    <categories>
+      <category id="1278">Детские транспортные средства</category>
+      <category id="1293" parentId="1278">Велосипеды</category>
+      <category id="1345" parentId="1278">Беговелы</category>
+      <category id="1279">Кухонные комбайны и измельчители</category>
+    </categories>
+    <offers>
+<offer id="test-for-Mary-01" available="true">
+        <name>Беговел ДЛ-987 1</name>
+        <picture>http://avatars.mds.yandex.net/get-mpic/5250150/img_id5522789285639349484.jpeg/orig</picture>
+        <description>Цвет|Красный</description>
+        <categoryId>1345</categoryId>
+        <barcode>675634535</barcode>
+        <vendor>ABC academyВ</vendor>
+        <weight>3.1</weight>
+        <dimensions>22.1/40.425/22.1</dimensions>
+        <price>500</price>
+        <oldprice>1000</oldprice>
+
+      </offer>
+
+<offer id="test-for-Mary-02" available="true">
+        <name>Беговел ДЛ-987 2</name>
+        <picture>http://avatars.mds.yandex.net/get-mpic/5250150/img_id5522789285639349484.jpeg/orig</picture>
+        <description>Цвет|Синий</description>
+        <categoryId>1345</categoryId>
+        <barcode>675634535</barcode>
+        <vendor>ABC academyВ</vendor>
+        <weight>3.1</weight>
+        <dimensions>22.1/40.425/22.1</dimensions>
+        <price>500</price>
+        <oldprice>1000</oldprice>
+
+      </offer>
+
+<offer id="test-for-Mary-03" available="true">
+        <name>Беговел ДЛ-987 3</name>
+        <picture>http://avatars.mds.yandex.net/get-mpic/5250150/img_id5522789285639349484.jpeg/orig</picture>
+        <description>Цвет|Синий</description>
+        <categoryId>1345</categoryId>
+        <barcode>675634535</barcode>
+        <vendor>ABC academyВ</vendor>
+        <weight>3.1</weight>
+        <dimensions>22.1/40.425/22.1</dimensions>
+        <price>500</price>
+        <oldprice>1000</oldprice>
+
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
