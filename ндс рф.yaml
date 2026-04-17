@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-04-15T14:37:38+03:00">
+    <shop>
+        <name>Yuri-Взаправду и всерьез</name>
+        <company>FBS копыта</company>
+     
+        <version>1.0</version>
+       
+        <offers>
+            <offer id="четвертый">          
+                <price>8990</price>
+                <oldprice>9990</oldprice>
+                <currencyId>RUR</currencyId>               
+                <vat>VAT_10</vat>               
+                                 
+                <count>100</count>
+                </offer>
+            
+        </offers>
+    </shop>
+</yml_catalog>
