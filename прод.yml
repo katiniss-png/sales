@@ -1,4 +1,4 @@
-<yml_catalog date="2026-04-01 12:50">
+<yml_catalog date="2026-10-21 12:50">
   <shop>
     <categories>
       <category id="1278">Детские транспортные средства</category>
@@ -44,6 +44,18 @@
         <vendor>ABC academyВ</vendor>
         <weight>3.1</weight>
         <dimensions>22.1/40.425/22.1</dimensions>
+        <price>500</price>
+        <oldprice>1000</oldprice>
+
+      </offer>
+      <offer id="test-for-Mary-0101" available="true">
+        <name>Беговел без вгх MARKETPARTNER-115651</name>
+        <picture>http://avatars.mds.yandex.net/get-mpic/5250150/img_id5522789285639349484.jpeg/orig</picture>
+        <description>Цвет|Синий</description>
+        <categoryId>1345</categoryId>
+        <barcode>675634535</barcode>
+        <vendor>ABC academyВ</vendor>
+        
         <price>500</price>
         <oldprice>1000</oldprice>
 
